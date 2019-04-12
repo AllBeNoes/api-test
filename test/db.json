@@ -1,0 +1,61 @@
+{
+  "humans": [
+    {
+      "id": 0,
+      "name": "Alice",
+      "age": 750
+    },
+    {
+      "id": 1,
+      "name": "Hufus",
+      "age": 300
+    },
+    {
+      "id": 2,
+      "name": "Rein",
+      "age": 37
+    },
+    {
+      "id": 3,
+      "name": "Greed",
+      "age": 40
+    },
+    {
+      "id": 4,
+      "name": "Shift",
+      "age": 20
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "stiletto",
+      "humanId": 4
+    },
+    {
+      "id": 1,
+      "name": "sword",
+      "humanId": 1
+    },
+    {
+      "id": 2,
+      "name": "spear",
+      "humanId": 3
+    },
+    {
+      "id": 3,
+      "name": "bunny",
+      "humanId": 0
+    },
+    {
+      "id": 4,
+      "name": "rose",
+      "humanId": 2
+    },
+    {
+      "id": 5,
+      "name": "poison",
+      "humanId": 4
+    }
+  ]
+}
